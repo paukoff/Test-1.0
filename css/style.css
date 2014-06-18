@@ -1,0 +1,70 @@
+@import url(reset.css);
+body {
+	font: 24px/1.2 MyriadPro, Verdana, sans-serif;
+	color: #ffffff;
+	text-align: left;
+}
+p {
+	margin-top: 30px;
+}
+#header {
+	overflow: hidden;
+}
+#wrapper {
+	width: 960px;
+	margin: 25px auto;
+	background-color: #C0C0C0;
+	padding: 20px 40px 30px;
+}
+#logo {
+	width: 100px;
+	height: 63px;
+	float: left;
+	margin-left: 170px;
+}
+#menu {
+	width: 880px;
+	height: 65px;
+	background-color: #9F9F9F;
+}
+#menu ul {
+	padding-top: 7px;
+}
+#menu2, #menu1 {
+	border-right: solid 2px;
+	padding-right: 15px;
+}
+#menu ul li {
+	float: left;
+	font: 36px MyriadPro, Verdana, sans-serif;
+	color: #ffffff;
+	float: right;
+	margin-right: 20px;
+}
+#menu ul li a {
+	color: #ffffff;
+	display: block;
+	text-decoration: none;	
+}
+#content {
+	width: 880px;
+	margin-top: 15px;
+	background-color: #9F9F9F;
+	padding: 30px;
+}
+#con1 {
+	width: 405px;
+	float: right;
+	padding: 30px;
+	background-color: #B86C6C
+}
+#con2 {
+	width: 405px;
+	padding: 30px;
+	background-color: #2D52B5
+}
+* {
+box-sizing: border-box;
+-moz- ...
+-webkit- ...
+}
